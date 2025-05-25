@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "82bb428b24d64f73af70d78aeba1cc81"
+#define SECRET_SSID "VNU_UET_WIFI_Free_5G"
+#define SECRET_OPTIONAL_PASS "giangvien03"
